@@ -6,7 +6,7 @@
    * [SSH](UsingSSH.md)
    * [MarkDown](UsingMarkDown.md)
    * [GitHub](UsingGitHub.md)
-* Python
+* 第二章 Python学习
    * [安装Python](SetupPython.md)
    * [第一个 Python 程序](firstPython.md)
 * [后记](end.md)

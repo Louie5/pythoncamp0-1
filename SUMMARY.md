@@ -9,7 +9,7 @@
        * [Git 基础](UsingGit.md)
        * [Git 常用命令](UsingGit.md)
        * [Commit 和 Log](CommitLog.md)
-       * [关于 origin](Usingorigin.md)
+       * [理解 origin](origin.md)
    * GitHub
        * [GitHub 基础](UsingGitHub.md)
        * [连接到 GitHub](ConnectToGitHub.md)

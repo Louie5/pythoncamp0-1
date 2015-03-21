@@ -1,4 +1,4 @@
-#有关Origin的理解#
+#理解Origin#
 
 ###**Origin 在哪里看到？**###
 
@@ -53,4 +53,4 @@ origin 实际上可以理解为**连接通道的名字**，相当于给你建立
 1. 本机自带help文件。
 2. git remote的用法 http://blog.csdn.net/wangjia55/article/details/8802490
 3. git push：http://www.yiibai.com/git/git_push.html
-4. 添加远程库 ：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000
+4. 添加远程库：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000

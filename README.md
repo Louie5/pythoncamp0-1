@@ -1,10 +1,19 @@
-# README
-为嘛不能保存
+# Python 学习书
+###我是怎么学习###
 
-## readme是什么
+**第一章 学习使用工具**
+- 第一节 安装 Ubuntu
+- 第二节 MarkDown
+- 第三节 SSH
+- 第四节 Git
+ - Git 基础
+ - Git 常用命令
+ - Commit 和 Log
+- 第五节 GitBook
 
-readme告诉别人如何使用你的软件，是项目的门面，一般包括如何安装，如何使用等等
+**第二章 Python 基础**
+- 安装Python
+- 我的第一个 Python 程序
 
-## fork这个项目
 
-现在，把这个项目fork到你的库里，点击右上角的fork
+

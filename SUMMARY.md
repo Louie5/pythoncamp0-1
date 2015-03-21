@@ -6,6 +6,5 @@
    * [使用SSH](UsingSSH.md)
 * [part2](./source/part2/introduction)
    * [part2.2](./source/part2/1.md)
-* [初用SSH](usingSSH.md)
 * [结尾](./source/end.md)
 

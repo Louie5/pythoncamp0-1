@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [缘起](source/begin.md)
 * 学习使用工具
    * [安装Ubuntu](SetupUbuntu.md)
    * [使用SSH](UsingSSH.md)

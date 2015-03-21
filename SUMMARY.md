@@ -8,6 +8,6 @@
    * [GitHub](UsingGitHub.md)
 * Python
    * [安装Python](SetupPython.md)
-   * 第一个 Python 程序
+   * [第一个 Python 程序](firstPython.md)
 * [结尾](./source/end.md)
 

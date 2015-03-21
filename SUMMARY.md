@@ -2,11 +2,18 @@
 
 * [前言](README.md)
 * 第一章 学习使用工具
-   * [安装Ubuntu](SetupUbuntu.md)
+   * [安装 Ubuntu](SetupUbuntu.md)
    * [SSH](UsingSSH.md)
    * [MarkDown](UsingMarkDown.md)
+   * Git
+       * [Git 基础](UsingGit.md)
+       * [Git 常用命令](UsingGit.md)
+       * [Commit 和 Log](CommitLog.md)
+       * [关于 origin](Usingorigin.md)
    * GitHub
-       * GitHub
+       * [GitHub 基础](UsingGitHub.md)
+       * [连接到 GitHub](ConnectToGitHub.md)
+   * [使用GitBook](UsingGitBook.md)
 * 第二章 Python基础
    * [安装Python](SetupPython.md)
    * [第一个 Python 程序](firstPython.md)

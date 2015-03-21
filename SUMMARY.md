@@ -4,7 +4,7 @@
 * 学习使用工具
    * [安装Ubuntu](SetupUbuntu.md)
    * [SSH](UsingSSH.md)
-   * [使用MarkDown](UsingMarkDown.md)
+   * [MarkDown](UsingMarkDown.md)
    * [GitHub](UsingGitHub.md)
 * [part2](./source/part2/introduction)
    * [part2.2](./source/part2/1.md)

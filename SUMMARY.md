@@ -7,6 +7,6 @@
    * [MarkDown](UsingMarkDown.md)
    * [GitHub](UsingGitHub.md)
 * Python
-   * [part2.2](./source/part2/1.md)
+   * [安装Python](SetupPython.md)
 * [结尾](./source/end.md)
 

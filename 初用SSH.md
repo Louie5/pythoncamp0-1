@@ -1,4 +1,4 @@
-##负基础使用SSH##
+##初用SSH##
 
 本文所测试使用的操作系统平台：WindowsXP windows7 Ubuntu14.04
 

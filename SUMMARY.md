@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* 学习使用工具
+* 第一章 学习使用工具
    * [安装Ubuntu](SetupUbuntu.md)
    * [SSH](UsingSSH.md)
    * [MarkDown](UsingMarkDown.md)

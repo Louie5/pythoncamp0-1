@@ -5,7 +5,7 @@
    * [安装Ubuntu](SetupUbuntu.md)
    * [SSH](UsingSSH.md)
    * [MarkDown](UsingMarkDown.md)
-   * [GitHub](UsingGitHub.md)
+   * GitHub
        * GitHub
 * 第二章 Python基础
    * [安装Python](SetupPython.md)

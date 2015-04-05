@@ -20,6 +20,6 @@
    * [本地模拟Codeskulptor运行](wiki/codeskulptor.md)
    * [猜数字-源代码](src/iipy-1/guess_number.py)
    * [点绘画板-源代码](src/iipy-1/draw.py)
-* [附录-常用](mark.md)
+* [附录-常用](marks.md)
 * [后记](end.md)
 

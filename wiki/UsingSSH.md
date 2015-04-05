@@ -48,7 +48,7 @@ SSH 是一种远程传输协议 [1] ，简单来说好处有两个，一个是�
 - 生成公钥秘钥 [2]  
 >$ssh-keygen -t rsa -C "462507545@qq.com"   
   
->系统将生成 .ssh 文件夹，下面有两个秘钥，默认名字就不改了。同一级有个.config 文件，用来配（keng）置(die) ssh 。  
+>系统将生成 .ssh 文件夹(windows默认在c:\用户\administrator\下)，下面有两个秘钥，默认名字就不改了。同一级有个.config 文件，用来配（keng）置(die) ssh 。  
 >
 【第二次试错】在 Windows 下安装 git bash 选用的是支持 command line ，也就是可以在 windows 的 cmd 命令框中直接使用 git命令，经测试 cmd 框执行效率高过 bash 。我在cmd下执行 ssh-keygen 却提示外部命令，改到打开 bash 窗口执行，通过。
 

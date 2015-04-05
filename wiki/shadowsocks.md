@@ -6,9 +6,9 @@
 经过测试，可能人品问题我用其他shadowssocks版本均失败，shadowsocks-qt5是可视化的一个版本，可用。 
 
 **友情提示：在apt-get这类指令中，习惯性加sudo，保证你有足够权限执行命令**
-> sudo add-apt-repository ppa:hzwhuang/ss-qt5  （找软件）
-> sudo apt-get update  （更新你的软件库）
-> sudo apt-get install shadowsocks-qt5
+> sudo add-apt-repository ppa:hzwhuang/ss-qt5（找软件）  
+> sudo apt-get update  （更新你的软件库）  
+> sudo apt-get install shadowsocks-qt5 (正式安装)  
 
  2 . 配置客户端  
 按供应商提供的账户信息配置好，如果信息正确，就会启动成功。杂项里头可以配置：设置成功自动启动。

@@ -12,7 +12,7 @@
        * [GitHub 基础](wiki/UsingGitHub.md)
        * [使用GitHub和Gitbook](wiki/push_github_gitbook.md)
    * [使用Disqus](wiki/disqus.md)
-   * [Ubuntu下shadowsocks科学上网](wiki/shadowsocks)
+   * [Ubuntu下shadowsocks科学上网](wiki/shadowsocks.md)
 * 第二章 Python基础
    * [安装Python](wiki/SetupPython.md)
    * [第一个 Python 程序](src/iipy-1/first_python.py)

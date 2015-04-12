@@ -17,7 +17,8 @@
    * [安装Python](wiki/SetupPython.md)
    * [第一个 Python 程序](src/iipy-1/first_python.py)
 * 第三章 Python学习
-   * [本地模拟Codeskulptor运行--教程](wiki/codeskulptor.md)
+   * [ubuntu本地化Codeskulptor--教程](wiki/codeskulptor.md)
+   * [windows本地化Codeskulptor--教程](wiki/win_codeskulptor.md)
    * [猜数字-源代码](src/iipy-1/guess_number.md)
    * [点绘画板-源代码](src/iipy-1/draw.md)
    * [猜数字AI-源代码](src/iipy-1/ai_guess_number.md)

@@ -18,9 +18,9 @@
    * [第一个 Python 程序](src/iipy-1/first_python.py)
 * 第三章 Python学习
    * [本地模拟Codeskulptor运行--教程](wiki/codeskulptor.md)
-   * [猜数字-源代码](src/iipy-1/guess_number.txt)
-   * [点绘画板-源代码](src/iipy-1/draw.txt)
-   * [猜数字AI-源代码](src/iipy-1/ai_guess_number.txt)
+   * [猜数字-源代码](src/iipy-1/guess_number.md)
+   * [点绘画板-源代码](src/iipy-1/draw.md)
+   * [猜数字AI-源代码](src/iipy-1/ai_guess_number.md)
    * [猜数字AI-教程](wiki/ai_guess_number.md)
 * [附录-常用](source/marks.md)
 * [后记](end.md)

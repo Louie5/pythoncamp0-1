@@ -22,6 +22,6 @@
    * [点绘画板-源代码](src/iipy-1/draw.txt)
    * [猜数字AI-源代码](src/iipy-1/ai_guess_number.txt)
    * [猜数字AI-教程](wiki/ai_guess_number.md)
-* [附录-常用](marks.md)
+* [附录-常用](source/marks.md)
 * [后记](end.md)
 

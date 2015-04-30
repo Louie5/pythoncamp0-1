@@ -5,8 +5,8 @@
 # Some features may work in other browsers, but do not expect
 # full functionality.  It does NOT run in Internet Explorer.
 #第二个提交版本
-# import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
-import simplegui
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
+#import simplegui
 import math
 import time
 draw_para = []
